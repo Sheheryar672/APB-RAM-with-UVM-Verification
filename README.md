@@ -15,3 +15,20 @@ This project includes a **Makefile** for compiling, simulating, and displaying t
 
 ### **Prerequisites**  
 Ensure that **QuestaSim** with **UVM 1.2** is installed and accessible in your system's **PATH**.  
+
+## Usage
+
+Use the following commands for Makefile:
+
+- **Compile and Run UVM Testbench**
+  ```bash
+  make run
+
+- **Display Waveform**
+  ```bash
+  make wave
+
+- **CLEAN_UP**
+  ```bash
+  make clean
+
